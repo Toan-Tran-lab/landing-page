@@ -10,8 +10,8 @@ body {
     flex-direction: column;
 }
 
-.section1 .header {
-    padding: 8px 0;
+.header {
+    padding: 16px 0;
     display: flex;
     justify-content: space-between;
     margin-bottom: 100px;
@@ -81,7 +81,7 @@ a {
     align-items: center;
 }
 
-.section2 .header {
+.title {
     padding: 32px;
     font-size: 32px;
     font-weight: 900;
